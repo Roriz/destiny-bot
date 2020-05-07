@@ -3,10 +3,9 @@ Tarefa para a instalação das ferramentas necessarias para o desenvolvimento:
 - Editor de código (sugiro https://code.visualstudio.com/)
 - Instalação do node (https://nodejs.org/en/download/)
 - Criação de um novo bot com o botFather
-
 tags: ambiente, instalação
 
-1. Customizando uma mensagem
+2. Customizando uma mensagem
 tags: ambientização, inicialização do servidor
 
 1. Enviando de volta o texto que foi digitado
